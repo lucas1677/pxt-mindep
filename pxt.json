@@ -1,6 +1,6 @@
 {
     "name": "magi-mindep",
-    "version": "1.0.5",
+    "version": "1.0.6",
     "description": "magi dep",
     "license": "MIT",
     "dependencies": {
