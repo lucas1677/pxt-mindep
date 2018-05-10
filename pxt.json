@@ -1,5 +1,5 @@
 {
-    "name": "minode",
+    "name": "magi-mindep",
     "version": "1.0.4",
     "description": "magi dep",
     "license": "MIT",
@@ -17,22 +17,8 @@
         "libs/MiNodeIO.h",
         "libs/MiNodeIO.cpp",
         "libs/MiNodeModulePool.h",
-        "libs/MiNodeRGB.h",
-        "libs/MiNodeRGB.cpp",
         "libs/MiNodeDHT11.cpp",
         "libs/MiNodeDHT11.h",
-        "libs/MiNodeSwitch.cpp",
-        "libs/MiNodeSwitch.h",
-        "libs/MiNodeRotary.cpp",
-        "libs/MiNodeRotary.h",
-        "libs/MiNodePIR.cpp",
-        "libs/MiNodePIR.h",
-        "libs/MiNodeMIC.cpp",
-        "libs/MiNodeMIC.h",
-        "libs/MiNodeLightSensor.cpp",
-        "libs/MiNodeLightSensor.h",
-        "libs/MiNodeFan.cpp",
-        "libs/MiNodeFan.h",
         "libs/minode.cpp",
         "shims.d.ts",
         "enums.ts",
@@ -41,6 +27,5 @@
     "testFiles": [
         "tests.ts"
     ],
-    "public": true,
-    "installedVersion": "file:../pxt-minode"
+    "public": true
 }
