@@ -1,6 +1,6 @@
 {
     "name": "minode",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "description": "magi dep",
     "license": "MIT",
     "dependencies": {
